@@ -1,0 +1,5 @@
+# 2018-19 ACC NCAAM Rankings
+
+This Jupyter Notebook produces a composite rankings of ACC teams based on 2018-19 conference play. The rankings were made from box-score data stored in a SQLite database. 
+
+Rankings can be seen in the csv file.
